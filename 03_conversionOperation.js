@@ -39,5 +39,5 @@ console.log("added string is = "+str3)  //added string is = hello world
 //console.log(1+"2")
 //console.log("1"+2+2)        //122
 //console.log(1+2+"2")        //32
-console.log((3+4)*5%3);       //35  
+console.log((3+4)*5%3);       
  

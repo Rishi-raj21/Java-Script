@@ -6,7 +6,7 @@ console.log(undefined > 0)          //False
 console.log(undefined == 0)         //False
 console.log(undefined >= 0)         //False
 
-console.log("2" === 2)              //False
+console.log("2" === 2)             //False
 
 
 

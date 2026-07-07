@@ -32,5 +32,5 @@ const obj4 = Object.assign({},obj1, obj2)
 console.log(obj4)       //ek saath jod dega 8.22
 //OR
 const obj5 = {...obj1, ...obj2}
-console.log(obj5 )
+console.log(obj5  )
 //node 02_basics/04_objects2.js

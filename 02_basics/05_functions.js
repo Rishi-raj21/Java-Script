@@ -22,4 +22,4 @@ console.log()
 function calCartPrice(...num1){
     return num1
 }
-console.log(calCartPrice(200,400,500))
+console.log(calCartPrice(200,400,500))  //  [ 200, 400, 500]

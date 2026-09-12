@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1f1f1f;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    height: 35px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+nav button {
+    padding: 6px 30px;
+    background-color: #eee;
+    border: 1px solid #777;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+#clock-container {
+    text-align: center;
+}
+
+#clock-container p {
+    color: white;
+    margin-bottom: 8px;
+}
+
+#clock {
+    background-color: orange;
+    color: white;
+    font-size: 28px;
+    padding: 15px 45px;
+    border-radius: 7px;
+    min-width: 200px;
+}
